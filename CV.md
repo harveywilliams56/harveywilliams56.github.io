@@ -5,4 +5,4 @@ order: 99
 permalink: /cv
 ---
 
-The latest version of my CV can be be downloaded here: [download pdf]({{ site.baseurl }}{% link /documents/cv.pdf %})
+The latest version of my CV can be be downloaded here: [download pdf](/documents/cv.pdf)
