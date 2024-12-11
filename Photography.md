@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Photography"
-order: 3
+order: 1000
 permalink: /photography
 ---
 
