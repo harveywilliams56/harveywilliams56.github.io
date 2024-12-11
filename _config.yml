@@ -20,8 +20,8 @@
 
 title: Harvey Williams
 email: harvey.john.williams2000@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  I'm broadly interested in the intersection of maths/physics/biology/computing. This website is an overview of some of the stuff I get up to. My academic email is constructed by adding "first-initial" + "last-initial" + "562@ast.cam.ac.uk".
+description: >- #ignore newlines until "baseurl"
+  My academic email is constructed by adding "first-initial" + "last-initial" + "562@ast.cam.ac.uk".
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  harveywilliams56
