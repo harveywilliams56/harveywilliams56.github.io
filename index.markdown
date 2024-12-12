@@ -14,6 +14,6 @@ More broadly I'm interested in the intersection of maths + physics + biology + c
 
 In a previous life, I spent a year as an intern in a software company and before that I worked as a mathematics teaching assistant supporting GCSE pupils. 
 
-My hobbies include film-photography, films and photography. I'm also a keen 5k runner but incapable of running any other distance.
+My hobbies include film-photography, films and photography. I'm also a keen 5k runner.
 
 
