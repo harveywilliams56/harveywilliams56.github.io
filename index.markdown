@@ -8,7 +8,7 @@ title: "About"
 
 <img src="/images/running.jpg" alt="portrait photo of me - mid 20s male, slim build. Medium length hair" style="width:200px; float:left; padding-right:10px"/>
 
-I'm currently a Part III student at the University of Cambridge studying Astrophysics, which is just an excuse to do some mathematics and simulate it on computers. My star sign is Pisces. 
+I'm currently a Part III student at the University of Cambridge studying Astrophysics, which is mostly an excuse to do some mathematics and simulate it on computers. My star sign is Pisces. 
 
 More broadly I'm interested in the intersection of maths + physics + biology + computing. This website is an overview of some of the stuff I get up to.
 
