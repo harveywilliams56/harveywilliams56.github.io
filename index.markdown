@@ -12,7 +12,7 @@ I'm currently a Part III student at the University of Cambridge studying Astroph
 
 More broadly I'm interested in the intersection of maths + physics + biology + computing. This website is an overview of some of the stuff I get up to.
 
-In a previous life, I spent a year as an intern in a software company and before that I worked as a mathematics teaching assistant supporting GCSE pupils. 
+Previously I spent a year as an intern in a software company and before that I worked as a mathematics teaching assistant supporting GCSE pupils. 
 
 My hobbies include film-photography, films and photography. I'm also a keen 5k runner.
 
