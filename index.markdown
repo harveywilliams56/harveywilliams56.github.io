@@ -16,5 +16,5 @@ In a previous life, I spent a year as an intern in a software company and before
 
 My hobbies include film-photography, films and photography. I'm also a keen 5k runner but incapable of running any other distance.
 
-I hope to start a mathematics PhD in Autumn 2025. If you're a committe member viewing this website, please admit me :)
+I hope to start a mathematics PhD in Autumn 2025. If you're a committee member viewing this website, please admit me :)
 
