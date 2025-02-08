@@ -10,7 +10,7 @@ title: "About"
 
 I'm currently a Part III student at the University of Cambridge studying Astrophysics, which is mostly an excuse to do some mathematics and simulate it on computers. My star sign is Pisces. 
 
-More broadly, I'm interested in the intersection of maths + physics + biology + computing. This website is an overview of some of the stuff I get up to.
+More broadly, I'm interested in the intersection of maths + physics + biology + computing and I'm a <a href="https://martingale.foundation/scholarships/mathematical-sciences/">Martingale Scholar-in-Principle</a> (2025-2026). This website is an overview of some of the stuff I get up to.
 
 Previously I spent a year as an intern in a software company and before that I worked as a mathematics teaching assistant supporting GCSE pupils. 
 
