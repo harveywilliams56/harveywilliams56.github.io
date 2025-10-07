@@ -8,11 +8,11 @@ title: "About"
 
 <img src="/images/running.jpg" alt="portrait photo of me - mid 20s male, slim build. Medium length hair" style="width:200px; float:left; padding-right:10px"/>
 
-I'm currently a Part III student at the University of Cambridge studying Astrophysics, which is mostly an excuse to do some mathematics and simulate it on computers. My star sign is Pisces. 
+I'm currently a <a href="https://martingale.foundation/scholarships/mathematical-sciences/">Martingale Scholar</a> at the University of Manchester, studying the 12 month Pure Mathematics MSc (9 months taught, 3 months dissertation). I'm specialising in analysis/geometry and plan to write my dissertation on the <a href="https://www.maths.manchester.ac.uk/research/themes/analysis-geometry-and-dynamical-systems/">analysis of dynamical systems</a> (likely using some geometric tools).
 
-More broadly, I'm interested in the intersection of maths + physics + biology + computing and I'm a <a href="https://martingale.foundation/scholarships/mathematical-sciences/">Martingale Scholar-in-Principle</a> (2025-2026). This website is an overview of some of the stuff I get up to.
+More broadly, I'm interested in the intersection of maths + physics + biology + computing. This website is an overview of some of the stuff I get up to.
 
-Previously I spent a year as an intern in a software company and before that I worked as a mathematics teaching assistant supporting GCSE pupils. 
+Previously I studied Part III Astrophysics at the University of Cambridge and before that I spent a year as in a software company and another year as a mathematics teaching assistant supporting GCSE pupils. 
 
 My hobbies include film-photography, films and photography. I'm also a keen 5k runner.
 
