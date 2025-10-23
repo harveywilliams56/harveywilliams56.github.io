@@ -5,4 +5,4 @@ order: 99
 permalink: /cv
 ---
 
-A recent version of my CV can be be downloaded here: [download pdf](/documents/cv.pdf)
+A recent version of my CV can be be downloaded here: [download pdf](/documents/CV_HarveyWilliams.pdf)
