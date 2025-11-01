@@ -12,7 +12,9 @@ I'm currently a <a href="https://martingale.foundation/scholarships/mathematical
 
 More broadly, I'm interested in the intersection of maths + physics + biology + computing. This website is an overview of some of the stuff I get up to.
 
-Previously I studied Part III Astrophysics at the University of Cambridge and before that I spent a year as in a software company and another year as a mathematics teaching assistant supporting GCSE pupils. 
+Previously I studied Part III Astrophysics at the University of Cambridge.
+
+After leaving school, before starting my undergraduate degree, I worked for one year as a mathematics teaching assistant supporting GCSE pupils, and then another year in a software company in order to afford attending university. 
 
 My hobbies include film-photography, films and photography. I'm also a keen 5k runner.
 
