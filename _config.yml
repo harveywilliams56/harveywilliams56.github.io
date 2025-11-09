@@ -21,7 +21,7 @@
 title: Harvey Williams
 # email: harvey.john.williams2000@gmail.com
 description: >- #ignore newlines until "baseurl"
-  My academic email is constructed by adding "first-initial" + "last-initial" + "562@ast.cam.ac.uk".
+  My academic email is constructed by adding "first name" + "last name" + "@student.manchester.ac.uk".
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  harveywilliams56
