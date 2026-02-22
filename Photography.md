@@ -5,6 +5,8 @@ order: 1000
 permalink: /photography
 ---
 
+I offer portrait and event photography for academic and professional settings, including conferences, talks, and society events. Send me an email if you are interested in booking.
+
 <div>
 
 {% for image in site.static_files %}
