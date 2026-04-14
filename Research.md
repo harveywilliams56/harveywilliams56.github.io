@@ -10,7 +10,7 @@ I've written a 15 page introduction to topology as part of my MSc in Pure Mathem
 
 I wrote my Cambridge Part III thesis on statistical sampling using Markov Chain methods under [Dr Will Handley](https://handley-lab.co.uk/group/). Unfortunately I broke both my right wrist and left index finger at the beginning of the second semester - <a href="https://www.varsity.co.uk/news/29737"> due to university views on mitigation </a> my department refused extensions or accommodations and I was left to complete the work without supervisor input.
 
-I am still working to investigate some of the observations I noted. I am particularly interested in the resonance behaviour observed in my [labbook](/documents/labbook.pdf) on 2025/02/20. 
+I am still working to investigate some of the observations I noted. I am particularly interested in the resonance behaviour observed in my [labbook](/documents/labbook.pdf) on 2025/02/20 - periodic solutions to the Hamiltonian can introduce a "beating" effect and lead to poor mixing. 
 
 The partial submission I was able to make whilst still injured can be found [here](/documents/PartIII_Final_Report_HarveyWilliams.pdf) as well as my intial first semester [initial progress report](/documents/interimReport.pdf).
 
