@@ -7,7 +7,7 @@ title: "About"
 ---
 
 <img src="/images/running.jpg" alt="portrait photo of me - mid 20s male, slim build. Medium length hair" style="width:200px; float:left; padding-right:10px"/>
-My expertise is in inference/machine learning algorithms - both mathematical theory and development/implementation.
+My expertise is in physical forward model inference and machine learning algorithms - both mathematical theory and development/implementation.
 
 I was an organiser for <a href="https://www.mimuc.org.uk">Manchester Interdisciplinary Mathematics Undergraduate Conference</a>  (MIMUC 2026) - a two day conference with a mix of undergraduate presentations and faculty/industry talks. We had over 150 registered undergraduate attendees at the conference and over 200 registered attendees at the public lecture. If you'd like to give a talk or sponsor MIMUC 2027, then get in touch with mimuc.organisers@manchester.ac.uk 
 
