@@ -19,6 +19,6 @@ Previously I studied Part III Astrophysics at the University of Cambridge - with
 
 After leaving school, before starting my undergraduate degree, I worked for one year as a mathematics teaching assistant supporting GCSE pupils and then another year in a software company. 
 
-My hobbies include film-photography, films and photography. I'm also a keen 5k runner.
+My hobbies include film-photography, films and photography. I'm also a keen runner.
 
 
