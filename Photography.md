@@ -4,7 +4,6 @@ title: "Photography"
 order: 1000
 permalink: /photography
 ---
-<div><p>
 >To see life; to see the world; to eyewitness great events [...]
 >to see and take pleasure in seeing; to see and be amazed; to see and be instructed...
 
@@ -12,7 +11,6 @@ permalink: /photography
 
 I offer portrait and event photography for academic and professional settings, including conferences, talks, and society events. Send me an email if you are interested in booking.
 
-</p></div>
 <div>
 
 {% for image in site.static_files %}
