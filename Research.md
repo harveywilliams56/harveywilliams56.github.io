@@ -5,6 +5,9 @@ order: 1
 permalink: /research
 ---
 
+
+<img src="/images/2026_MIMUC_Committee.webp" alt="photo of MIMUC Committee 2026 standing in front of blackboard." style="width:parent"/>
+
 I've written a 15 page introduction to topology as part of my MSc in Pure Mathematics at the University of Manchester. The task was to write a 12-16 page report on an undergraduate level topic as practice for the summer dissertation. Since I was already comfortable writing Latex but have never had the opportunity to attend a taught course on topology, this seemed like a good opportunity to fill in some gaps for myself: [download pdf](/documents/ManchesterMiniProjectHarveyWilliams.pdf).
 
 
@@ -15,3 +18,5 @@ I am still working to investigate some of the observations I noted. I am particu
 The partial submission I was able to make whilst still injured can be found [here](/documents/PartIII_Final_Report_HarveyWilliams.pdf) as well as my intial first semester [initial progress report](/documents/interimReport.pdf).
 
 Summer UROP 2024 modelling collective cell motion in biological tissues: [download pdf](/documents/UROP2024.pdf)
+
+
