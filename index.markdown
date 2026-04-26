@@ -20,5 +20,6 @@ Previously I studied Part III Astrophysics at the University of Cambridge - with
 After leaving school, before starting my undergraduate degree, I worked for one year as a mathematics teaching assistant supporting GCSE pupils and then another year in a software company. 
 
 My hobbies include film-photography, films and photography. I'm also a keen runner.
+<img src="/images/2026_MIMUC_Committee.jpg" alt="photo of MIMUC Committee 2026 standing in front of blackboard." style="width:parent"/>
 
 
