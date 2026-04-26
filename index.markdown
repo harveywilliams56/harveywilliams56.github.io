@@ -13,6 +13,8 @@ I was an organiser for <a href="https://www.mimuc.org.uk">Manchester Interdiscip
 
 I'm currently a <a href="https://martingale.foundation/scholarships/mathematical-sciences/">Martingale Scholar</a> at the University of Manchester, studying the 12 month Pure Mathematics MSc (9 months taught, 3 months research). I'm specialising in analysis/geometry and plan to write my dissertation on the <a href="https://www.maths.manchester.ac.uk/research/themes/analysis-geometry-and-dynamical-systems/">analysis of dynamical systems</a> (likely using some geometric tools).
 
+<img src="/images/CURA.jpg" alt="Photo of me walking across an outdoor shooting range wearing a shooting jacket and sling." style="width:200px; float:right; padding-left:10px"/>
+
 More broadly, I'm interested in the intersection of maths + physics + biology + computing. This website is an overview of some of the stuff I get up to.
 
 Previously I studied Part III Astrophysics at the University of Cambridge - with a brief soujourn into neuro-physiology during Part IA.
@@ -20,6 +22,8 @@ Previously I studied Part III Astrophysics at the University of Cambridge - with
 After leaving school, before starting my undergraduate degree, I worked for one year as a mathematics teaching assistant supporting GCSE pupils and then another year in a software company. 
 
 My hobbies include film-photography, films and photography. I'm also a keen runner.
+
+
 
 
 
