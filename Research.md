@@ -8,6 +8,8 @@ permalink: /research
 
 <img src="/images/2026_MIMUC_Committee.webp" alt="photo of MIMUC Committee 2026 standing in front of blackboard." style="width:parent"/>
 
+In preparation for my MSc Pure Mathematics final dissertation, I have written a mini-dissertation on the Riemann Mapping theorem. I used this as a chance to add some rigour to my understanding of complex analysis and to use the topology I learned from my previous piece of work. [Download pdf](/documents/MiniDissertationManchester.pdf).
+
 I've written a 15 page introduction to topology as part of my MSc in Pure Mathematics at the University of Manchester. The task was to write a 12-16 page report on an undergraduate level topic as practice for the summer dissertation. Since I was already comfortable writing Latex but have never had the opportunity to attend a taught course on topology, this seemed like a good opportunity to fill in some gaps for myself: [download pdf](/documents/ManchesterMiniProjectHarveyWilliams.pdf).
 
 
